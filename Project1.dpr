@@ -11,7 +11,7 @@ uses
 
 begin
   Application.Initialize;
-  Application.Title := 'Algoritma ILS-RVND pada MTVRPTW';
+  Application.Title := 'ILS-RVND on MTVRPTW';
   Application.CreateForm(TMTVRPTW, MTVRPTW);
   Application.Run;
 end.

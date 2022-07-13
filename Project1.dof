@@ -111,7 +111,7 @@ ProjectLang=
 RootDir=
 [Version Info]
 IncludeVerInfo=1
-AutoIncBuild=0
+AutoIncBuild=1
 MajorVer=2
 MinorVer=1
 Release=3
@@ -125,19 +125,20 @@ Locale=14345
 CodePage=1252
 [Version Info Keys]
 CompanyName=
-FileDescription=
+FileDescription=Implementation of the ILS-RVND Algorithm on MTVRPTW
 FileVersion=2.1.3.0
 InternalName=
 LegalCopyright=2021 Yunita Maulinda
 LegalTrademarks=
 OriginalFilename=
-ProductName=Program ILS-RVND pada MTVRPTW
-ProductVersion=2.3
+ProductName=ILS-RVND on MTVRPTW
+ProductVersion=1.3.0.0
 Comments=
 [HistoryLists\hlUnitAliases]
 Count=1
 Item0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
 [HistoryLists\hlOutputDirectorry]
-Count=2
-Item0=C:\Users\MSII\Downloads
-Item1=C:\Users\MSII\Downloads\Ubah\Adelia ILS-RVND fix
+Count=3
+Item0=C:\Users\MSII\Videos
+Item1=C:\Users\MSII\Downloads
+Item2=C:\Users\MSII\Downloads\Ubah\Adelia ILS-RVND fix
